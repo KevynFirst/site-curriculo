@@ -1,0 +1,42 @@
+body {
+ background-color: rgb(17, 24, 39);
+ display: flex;
+ justify-content: center;
+ flex-direction: column;
+ align-items: center;
+ min-height: 50vh;
+ font-family: "Open Sans", sans-serif;
+ }
+
+
+::-webkit-scrollbar {
+width: 0px;
+}
+
+.building{
+ display: flex;
+ flex-direction: column;
+ align-items: center;
+ justify-content: center;
+ width: 500px;
+}
+
+.image{
+ width: 400px;
+}
+
+.text{
+ display: flex;
+ color: #ffff;
+ align-items: center;
+ flex-direction: column;
+}
+
+p{
+ display: flex;
+ text-align: center;
+}
+
+h1 {
+ margin: 0;
+}
