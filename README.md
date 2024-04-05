@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Logo Prime Video" src="./assets/img/logo.png" width="400px" />
+  <img alt="Logo" src="./assets/img/logo.png" width="400px" />
 </p>
 <p align="center">
 Projeto de um site do meu currículo em formato de LP 
