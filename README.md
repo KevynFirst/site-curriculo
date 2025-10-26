@@ -27,10 +27,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 <br>
 
 ## 📖 Projeto
-Este projeto utiliza as tecnologias html5, css3, js, bootstrap5 para o desenvolvimento do layout e o versionamento git em linha de códigos para colocar em prática o usa da ferramenta</b>. O projeto ainda está em desenvolvimento ao percorrer da minha busca de capacitação para conquistar uma vaga. A LP contem 4 abas, sendo elas:
+Este projeto utiliza as tecnologias html5, css3, js, bootstrap5 para o desenvolvimento do layout</b>. O projeto ainda está em desenvolvimento ao percorrer da minha busca de capacitação para conquistar uma oportunidade. O projeto contém:
 - [x] Home
-- [ ] Sobre (atualizar skills)
+- [x] Sobre
 - [x] Resumo
+- [ ] Certificado (atualizar para dados)
 - [ ] Portfolio (atualizar projetos)
 <br>
 <br>
