@@ -9,10 +9,11 @@ Projeto de um site do meu currículo em formato de LP
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-preview">Preview</a>
 </p>
+<br/>
 <p align="center">
   <img alt="Static Badge" src="https://img.shields.io/badge/Personal-Project-orange">
   <img alt="Static Badge" src="https://img.shields.io/badge/license-MIT-green">
-  <br/><img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
+  <br/><br/><img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 </p>
 
 <br>
